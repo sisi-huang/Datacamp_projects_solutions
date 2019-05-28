@@ -1,4 +1,3 @@
-# Datacamp_projects_solutions
 ## Python Projects  
 
  - [Naïve Bees- Image Loading and Processing](https://github.com/zerinahuang/Datacamp_projects_solutions/blob/master/Na%C3%AFve%20Bees-%20Image%20Loading%20and%20Processing/notebook.ipynb)
