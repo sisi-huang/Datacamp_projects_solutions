@@ -10,4 +10,5 @@
 - [Phyllotaxis: Draw Flowers Using Mathematics](https://github.com/zerinahuang/Datacamp_projects_solutions/blob/master/%20Draw%20Flowers%20Using%20Mathematics/notebook.ipynb)
 - [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/zerinahuang/Datacamp_projects_solutions/blob/master/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb)
 - [Exploring the Kaggle Data Science Survey](https://github.com/zerinahuang/Datacamp_projects_solutions/blob/master/Exploring%20the%20Kaggle%20Data%20Science%20Survey/notebook.ipynb)
+- [Level Difficulty in Candy Crush Saga](https://github.com/zerinahuang/Datacamp_projects_solutions/blob/master/Level%20Difficulty%20in%20Candy%20Crush%20Saga/notebook.ipynb)
 
